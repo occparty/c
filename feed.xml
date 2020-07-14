@@ -5,13 +5,13 @@
     <description>We're on the fabulous world of exploration. Travel, Eat, Play, Love!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 14 Jul 2020 18:13:34 +0800</pubDate>
-    <lastBuildDate>Tue, 14 Jul 2020 18:13:34 +0800</lastBuildDate>
+    <pubDate>Wed, 15 Jul 2020 01:21:42 +0800</pubDate>
+    <lastBuildDate>Wed, 15 Jul 2020 01:21:42 +0800</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
         <title>TEST</title>
-        <description>&lt;p&gt;Within the Hôtel de Crillon, which was built in 1758, Les Ambassadeurs operated as a restaurant since the mid-19th century. It reached its peak of fame as a restaurant and nightclub (a café-concert) in the last three decades of the 19th century.&lt;/p&gt;
+        <description>&lt;p&gt;Within 中文字的字型使用 the Hôtel de Crillon, which was built in 1758, Les Ambassadeurs operated as a restaurant since the mid-19th century. It reached its peak of fame as a restaurant and nightclub (a café-concert) in the last three decades of the 19th century.&lt;/p&gt;
 
 &lt;p&gt;Always a center of entertainment for the aristocracy, in the 1870s it also became a regular destination of some of the best known figures of art and the demi-monde. Edgar Degas and Henri de Toulouse-Lautrec portrayed visitors at the night club, and Aristide Bruant performed there.&lt;/p&gt;
 
@@ -33,6 +33,60 @@
         
         
         <category>SITE</category>
+        
+      </item>
+    
+      <item>
+        <title>開始了</title>
+        <description>&lt;p&gt;Within the Hôtel de Crillon, which was built in 1758, Les Ambassadeurs operated as a restaurant since the mid-19th century. It reached its peak of fame as a restaurant and nightclub (a café-concert) in the last three decades of the 19th century.&lt;/p&gt;
+
+&lt;p&gt;Always a center of entertainment for the aristocracy, in the 1870s it also became a regular destination of some of the best known figures of art and the demi-monde. Edgar Degas and Henri de Toulouse-Lautrec portrayed visitors at the night club, and Aristide Bruant performed there.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It was decorated in an 18th-century rococo style, redesigned by Sybille de Margérie with furnishings by Sonia Rykiel.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Following a renovation of the hotel in 1981–85, the restaurant occupied a former private ballroom with windows looking out on the Place de la Concorde, a few hundred meters from the Palais Garnier.&lt;/p&gt;
+
+&lt;p&gt;Les Ambassadeurs had two Michelin stars. In the last decade of its operation, chef was Dominique Bouchet  followed by Jean-François Piège and finally when the hotel closed in 2013 for an extended renovation, Christopher Hache.&lt;/p&gt;
+
+&lt;p&gt;In 2017 Hache opened a smaller restaurant, L’Écrin, within the renovated hotel; the former space of Les Ambassadeurs became a bar.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 12 Jul 2020 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/%E9%96%8B%E5%A7%8B/</link>
+        <guid isPermaLink="true">http://localhost:4000/%E9%96%8B%E5%A7%8B/</guid>
+        
+        <category>France</category>
+        
+        
+        <category>Lifestyle</category>
+        
+      </item>
+    
+      <item>
+        <title>開始了</title>
+        <description>&lt;p&gt;Within the Hôtel de Crillon, which was built in 1758, Les Ambassadeurs operated as a restaurant since the mid-19th century. It reached its peak of fame as a restaurant and nightclub (a café-concert) in the last three decades of the 19th century.&lt;/p&gt;
+
+&lt;p&gt;Always a center of entertainment for the aristocracy, in the 1870s it also became a regular destination of some of the best known figures of art and the demi-monde. Edgar Degas and Henri de Toulouse-Lautrec portrayed visitors at the night club, and Aristide Bruant performed there.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It was decorated in an 18th-century rococo style, redesigned by Sybille de Margérie with furnishings by Sonia Rykiel.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Following a renovation of the hotel in 1981–85, the restaurant occupied a former private ballroom with windows looking out on the Place de la Concorde, a few hundred meters from the Palais Garnier.&lt;/p&gt;
+
+&lt;p&gt;Les Ambassadeurs had two Michelin stars. In the last decade of its operation, chef was Dominique Bouchet  followed by Jean-François Piège and finally when the hotel closed in 2013 for an extended renovation, Christopher Hache.&lt;/p&gt;
+
+&lt;p&gt;In 2017 Hache opened a smaller restaurant, L’Écrin, within the renovated hotel; the former space of Les Ambassadeurs became a bar.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 12 Jul 2020 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/start/</link>
+        <guid isPermaLink="true">http://localhost:4000/start/</guid>
+        
+        <category>France</category>
+        
+        
+        <category>Lifestyle</category>
         
       </item>
     
